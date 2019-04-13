@@ -1,0 +1,5 @@
+com/rotabuilder/webapp/DomainApplication.class
+com/rotabuilder/webapp/footer/CustomFooterPanel.class
+com/rotabuilder/webapp/footer/MyComponentFactoryRegistrar.class
+com/rotabuilder/webapp/DomainApplication$1.class
+com/rotabuilder/webapp/footer/CustomFooterPanelFactory.class

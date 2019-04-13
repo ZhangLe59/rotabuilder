@@ -1,0 +1,9 @@
+com/rotabuilder/app/services/tenancyevaluator/UserProfileServiceShowingTenancy.class
+com/rotabuilder/app/services/tenancyevaluator/TenancySwitcher.class
+com/rotabuilder/app/services/homepage/HomePageViewModel.class
+com/rotabuilder/app/DomainAppAppManifest.class
+com/rotabuilder/app/services/homepage/HomePageService.class
+com/rotabuilder/app/services/tenancyevaluator/ApplicationTenancyEvaluatorForRoster.class
+com/rotabuilder/app/services/registration/AppUserRegistrationService.class
+com/rotabuilder/app/DomainAppAppModule.class
+com/rotabuilder/app/DomainAppTestManifest.class
